@@ -7,11 +7,7 @@
 <body>
   <h1>Cloud-Php-Ex000 Echo Msg</h1>
   <?php
-	if(isset($_GET['param']) && !empty($_GET['param'])){
-		echo "Param = ".$_GET['param'];
-	} else {
-		echo "no Param !"; 
-	}
+	
   ?>  
 </body>
 </html>
