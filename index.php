@@ -7,7 +7,7 @@
 <body>
 
   <h1>Cloud-Php-Ex000</h1>
-  <p>Chạy thử 1.</p>
+  <p>Hello my name is Ha</p>
 
 </body>
 </html>
