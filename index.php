@@ -6,8 +6,13 @@
 </head>
 <body>
 
-  <h1>Cloud-Php-Ex000</h1>
+  <h1>Loai tam giac</h1>
   <p>Hello my name is Ha</p>
-
+  <form action="action.php" method="get">
+   Do dai 1: <input type="text" name="a"><br/>
+   Do dai 2: <input type="text" name="b"><br/>
+   Do dai 3: <input type="text" name="c"><br/>
+   <input type="submit" value="Do">
+</form>
 </body>
 </html>
